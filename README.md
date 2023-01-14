@@ -3,6 +3,8 @@
 ### I am a Data Engineer/Architech
 
 
+<a href="https://www.credential.net/a9f906be-ae21-4bbe-ae5d-1c9c0935d630#gs.n48lhw"><img align="left" alt="Goole Cloud Digital Leader" width="120px" height="120px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/54021623">
+
 <a href="https://credentials.databricks.com/1408a416-f339-4853-bf06-343eae72dea8"><img align="left" alt="Developer Foundations" width="120px" height="120px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51847700">
 
 <a href="https://credentials.databricks.com/eeef1b6c-a186-41cf-92a2-c4fa2d688c51#gs.n4479n"><img align="left" alt="Databricks Lakehouse Foundation" width="140px" height="140px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65940160">
