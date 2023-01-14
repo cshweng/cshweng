@@ -10,4 +10,4 @@
 
 [![DB LHF](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65940160)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65940160)
 
-[<a href="https://credentials.databricks.com/eeef1b6c-a186-41cf-92a2-c4fa2d688c51#gs.n4479n"><img align="left" alt="HTML5" width="26px" src=""https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65940160 />][DB LHF]
+[<a href="https://credentials.databricks.com/eeef1b6c-a186-41cf-92a2-c4fa2d688c51#gs.n4479n"><img align="left" alt="HTML5" width="26px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65940160">][DB LHF]
