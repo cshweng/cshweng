@@ -2,4 +2,4 @@
 
 ### I am a Data Engineer/Architech
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="23d277b7-3102-4e47-aa17-29fff7b5eee3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Cert](https://images.credly.com/size/110x110/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](https://www.credly.com/badges/23d277b7-3102-4e47-aa17-29fff7b5eee3/public_url)
