@@ -6,3 +6,6 @@
 
 
 [![AWS DA](https://images.credly.com/size/110x110/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png)](https://www.credly.com/badges/6fe542ba-3889-4fd8-9ab8-c7e277bf85aa/public_url)
+
+
+[![DB LHF](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65940160)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/65940160)
